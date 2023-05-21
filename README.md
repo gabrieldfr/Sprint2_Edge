@@ -8,7 +8,7 @@
 - Julia Neves – RM: 98680 
 - Matheus Gusmão – RM: 550826
 
-![image](https://github.com/gabrieldfr/Sprint2_Edge/assets/127216244/da2cb229-007f-4bda-be0b-fe8d973531c0)
+![image](https://github.com/gabrieldfr/Sprint2_Edge/assets/127216244/7a0809f6-8b7b-4886-aa3f-412a16c4803c)
 
 Este projeto é um sistema de iluminação inteligente que utiliza um sensor de luz (fotoresistor) e um sensor de presença (PIR) para controlar a iluminação de um ambiente de acordo com as condições de luminosidade e a presença de pessoas.
 O código-fonte para esse projeto está escrito na linguagem de programação Arduino. O programa lê continuamente o valor do fotoresistor e verifica se é dia ou noite. Se o valor do fotoresistor for menor que 110, o programa assume que é noite e verifica se o sensor PIR detectou a presença de alguém. Se o sensor PIR detectar a presença de alguém, o LED é aceso por um período de 5 segundos.
@@ -23,3 +23,6 @@ O código-fonte para esse projeto está escrito na linguagem de programação Ar
 
 ## Como contribuir:
 Este projeto é de código aberto e qualquer pessoa pode contribuir para o seu desenvolvimento. Se você deseja contribuir para o projeto, por favor entre em contato com o grupo pelo e-mail: biel121203@gmail.com
+
+## Link para acessar o projeto no tinkercad:
+<https://www.tinkercad.com/things/7hQuaa0dIPY-copy-of-iluminacao-com-sensor-de-movimento-versao-led/editel?sharecode=Ys8V6YzyYk56P3Q-lTPCf0-DtKcB4xyl5Vw_faEmUkY>
