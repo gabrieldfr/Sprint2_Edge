@@ -8,7 +8,7 @@
 - Julia Neves – RM: 98680 
 - Matheus Gusmão – RM: 550826
 
-![image](https://github.com/gabrieldfr/Sprint2_Edge/assets/127216244/7a0809f6-8b7b-4886-aa3f-412a16c4803c)
+![_Iluminação com sensor de movimento (versão led)](https://github.com/gabrieldfr/Sprint2_Edge/assets/127216244/98c2960b-2feb-460a-81c2-bed31a25fc0d)
 
 Este projeto é um sistema de iluminação inteligente que utiliza um sensor de luz (fotoresistor) e um sensor de presença (PIR) para controlar a iluminação de um ambiente de acordo com as condições de luminosidade e a presença de pessoas.
 O código-fonte para esse projeto está escrito na linguagem de programação Arduino. O programa lê continuamente o valor do fotoresistor e verifica se é dia ou noite. Se o valor do fotoresistor for menor que 110, o programa assume que é noite e verifica se o sensor PIR detectou a presença de alguém. Se o sensor PIR detectar a presença de alguém, o LED é aceso por um período de 5 segundos.
