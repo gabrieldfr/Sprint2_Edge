@@ -26,3 +26,6 @@ Este projeto é de código aberto e qualquer pessoa pode contribuir para o seu d
 
 ## Link para acessar o projeto no tinkercad:
 <https://www.tinkercad.com/things/7hQuaa0dIPY-copy-of-iluminacao-com-sensor-de-movimento-versao-led/editel?sharecode=Ys8V6YzyYk56P3Q-lTPCf0-DtKcB4xyl5Vw_faEmUkY>
+
+## Link de um vídeo feito por nós para maior entendimento sobre o nosso projeto:
+<https://youtu.be/RPMMLClQBew>
